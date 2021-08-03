@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/libDrive/web.git"
+    "url": "git+https://github.com/VinzGh1/web.git"
   },
   "author": "Elias Benbourenane <eliasbenbourenane@gmail.com> (https://eliasbenb.cf)",
   "funding": [
     {
       "type": "ko-fi",
-      "url": "https://ko-fi.com/eliasbenb"
+      "url": "https://www.facebook.com/kazu.miteku.1"
     }
   ],
   "license": "MIT",
